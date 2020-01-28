@@ -1,5 +1,8 @@
 Hola.
 
 Este es mi primera pràctica usaAndo Git.
+Este es mi primera pràctica usando Git.
+
+Integrantes:
 
 Kevin Lamilla
